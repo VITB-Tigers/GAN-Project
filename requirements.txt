@@ -1,4 +1,4 @@
-#Python Version: 3.11.5
+# Python Version: 3.11.5
 streamlit==1.36.0
 tensorflow==2.15.0
 numpy==1.24.3
