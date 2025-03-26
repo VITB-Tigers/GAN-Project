@@ -1,8 +1,4 @@
-# Generative Adversarial Network (GAN)
-
-This is the main branch of GAN repository.
-
----
+# Mock Data Generator - A GAN Project
 
 ## Table of Contents
 - [Project Description](#project-description---fake-data-generation-for-churn-prediction)
@@ -13,7 +9,7 @@ This is the main branch of GAN repository.
 
 ---
 
-## Project Description - Fake Data Generation for Churn Prediction
+## Project Description - Mock Data Generation for Churn Prediction
 
 A telecom company wants to simulate customer churn data to better understand patterns that may lead to customer attrition. Using synthetic data, the company can experiment with different churn scenarios, test predictive models, and create targeted strategies to reduce churn without compromising actual customer data privacy.
 
